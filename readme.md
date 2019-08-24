@@ -1,0 +1,1 @@
+Please go to the link yoururl.com/install.php to install the database and then you will be redirected to the main page and then you can start adding employees

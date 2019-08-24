@@ -1,0 +1,52 @@
+.left-margin{
+    margin:0 .5em 0 0;
+}
+ 
+
+ 
+
+.modal-body {
+    padding: 20px 20px 0px 20px !important;
+    text-align: center !important;
+}
+ 
+.modal-footer{
+    text-align: center !important;
+}
+
+.notAdded{
+	margin-top: 74px !important;
+}
+
+@media(min-width: 768px)
+{
+	/* for desktop */
+	.right-button-margin{
+		margin: 0 0 1em 0;
+		overflow: hidden;
+	}
+
+	.editBtn{
+		margin-left: 4px
+	}
+}
+
+@media(max-width: 768px)
+{
+	/* for mobile */
+	.right-button-margin
+	{
+		margin: 4em 0 1em 0;
+		text-align: center;
+	}
+
+	.editBtn{
+		margin-left: 2px;
+		margin-bottom: 8px;
+	}
+
+	.delBtn{
+		margin-left : 2px;
+	}
+
+}
